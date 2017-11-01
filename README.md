@@ -1,2 +1,3 @@
 # IOC-test
-The impliment of Spring IOC 
+（1）实现了女孩对于张三，李四，想KISS谁就KISS谁，接口实现
+（2）对象的创建不在是主动寻找的过程，而是交给了容器处理
